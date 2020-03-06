@@ -1,0 +1,20 @@
+.container{
+  width: 60%;
+  margin-top: 5rem;
+}
+
+.brand-logo{
+  margin-left: 1rem;
+}
+
+.collection-item{
+  margin: 1rem 0;
+}
+
+.btn-small{
+  margin: 0 10px;
+}
+
+.col.s9{
+  font-size: 1.5rem;
+}
